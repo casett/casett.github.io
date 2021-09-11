@@ -273,6 +273,7 @@
 			.image.featured img {
 				display: block;
 				width: 100%;
+				border-radius: 6px;
 			}
 			
 			.image.featured.special:before {
