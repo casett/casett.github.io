@@ -2,7 +2,7 @@
 title: Cassie Ettinger
 email: clettinger@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Cassie Ettinger, Ph.D is a computational biologist at Barnwell Bio, specializing in microbiome and metagenomic analysis, pipeline development, and environmental biosurveillance to improva animal health. Formerly NSF postdoctoral fellow at UC Riverside; Ph.D from UC Davis. 
+  Cassie Ettinger, Ph.D is a computational biologist at Barnwell Bio, specializing in microbiome and metagenomic analysis, pipeline development, and environmental biosurveillance to improve animal health. Formerly NSF postdoctoral fellow at UC Riverside; Ph.D from UC Davis. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://casett.github.io" # the base hostname & protocol for your site
 github_username:  casett
